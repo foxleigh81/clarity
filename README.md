@@ -1,0 +1,4 @@
+clarity
+=======
+
+Clarity XBMC Skin
